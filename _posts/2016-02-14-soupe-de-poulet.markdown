@@ -7,8 +7,6 @@ categories: souad salé
 ---
 ## Ingrédients
 
-**Durée** 5 minutes
-
 - ~10 cuisses de poulet
 - 4 carottes
 - 8 tiges de celerie
@@ -17,6 +15,8 @@ categories: souad salé
 *Pour X personnes*
 
 ## Préparation
+
+**Durée** 5 minutes
 
 1. Coupez les carottes, le celerie et l'oignon en gros morceau.
 2. Verez le tout dans une grosse casserole avec le poulet.
