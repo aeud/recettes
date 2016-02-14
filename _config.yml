@@ -3,7 +3,7 @@ title: "Livre de recettes"
 email: adrien@eudes.co
 description: "Quelques recettes que je retiens"
 baseurl: "/recettes"
-url: "http://adrien.eudes.co/recettes"
+url: "http://adrien.eudes.co"
 twitter_username: a_eud
 github_username:  aeud
 relative_permalinks: false
