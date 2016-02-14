@@ -1,0 +1,14 @@
+# Site settings
+title: "Livre de recettes"
+email: adrien@eudes.co
+description: "Quelques recettes que je retiens"
+baseurl: ""
+url: "http://adrien.eudes.co/recettes"
+twitter_username: a_eud
+github_username:  aeud
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+sass:
+  style: :compressed

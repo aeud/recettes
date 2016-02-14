@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Choux"
+date:   2016-02-14 12:32:53
+permalink: choux
+categories: patisserie recette
+---
+## Ingrédients
+
+- 1/4 litre d'eau
+- 75 g de beurre
+- 15 g de sucre
+- 1 pincée de sel
+- 125 g de farine
+- 4 oeufs
+
+*Pour 8 personnes ou une ~50 choux*
+
+## Préparation
+
+Mettre dans une casserole, l'eau, le beurre, le sel et le sucre. Quand le mélange est bouillant, retirer la casserole du feu, y jeter la farine d'un bloc. Bien mélanger pour obtenir une pâte très épaisse. Remettre la casserole sur le feu en appuyant fortement sur cette pâte, ce qui a pour but de cuire la farine. (La pâte ne doit plus coller à la spatule ni au fond de la casserole). cette opération ne doit pas dépasser quelques secondes.
+
+Retirer la casserole du feu et ajouter un à un les oeufs dans la pâte en la travaillant bien après l'addition de chaque oeuf.
+
+La pâte terminée doit être molle, coulante, mais non liquide. Attention : si les oeufs sont gros, il suffira peut-être de n'en mettre que 3,5. S'ils sont petits, il faudra sans doute ajouter 1 ou 2 cuillerées d'oeuf battu.
+
+Dresser sur plaque beurrée et farinée des petits tas de pâte en forme de choux ou d'éclairs. Dorer à l'oeuf battu (facultatif).
+
+## Cuisson
+
+**Température** 180°C (thermostat 6)
+
+**Durée** ~25 minutes
+
+*Ne pas ouvrir pendant la cuisson. Laisser cuire jusqu'à ce que la pâte soit bien colorée, ferme et bien montée.*
