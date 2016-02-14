@@ -2,7 +2,6 @@
 layout: post
 title:  "Choux"
 date:   2016-02-14 12:32:53
-permalink: choux
 categories: patisserie recette
 ---
 ## Ingrédients
