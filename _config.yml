@@ -6,6 +6,7 @@ baseurl: "/recettes"
 url: "http://adrien.eudes.co/recettes"
 twitter_username: a_eud
 github_username:  aeud
+relative_permalinks: false
 
 # Build settings
 markdown: kramdown
