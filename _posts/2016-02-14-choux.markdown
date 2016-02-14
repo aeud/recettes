@@ -3,7 +3,7 @@ layout: post
 title:  "Choux"
 date:   2016-02-14 12:32:53 +0800
 permalink: choux
-categories: patisserie recette
+categories: adrien sucré
 ---
 ## Ingrédients
 
